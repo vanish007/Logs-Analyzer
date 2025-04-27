@@ -1,0 +1,227 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "bin",
+					"jsonFile" : "directory-bin-Debug-3d84778fa4221ebd449e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "bin",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Debug-e9069484d90298468a11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "labwork1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "arg_parcer::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-arg_parcer-Debug-a70324fdb5cdf7e2f079.json",
+					"name" : "arg_parcer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "error_processor::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-error_processor-Debug-a82099b59d12fc95c091.json",
+					"name" : "error_processor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "labwork1::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-labwork1-Debug-bf9077afe2fd6b051ffe.json",
+					"name" : "labwork1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "local_time_parcer::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-local_time_parcer-Debug-6d190e0e5ccc69e0e623.json",
+					"name" : "local_time_parcer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "log_parcer::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-log_parcer-Debug-888de437ca754c47bac7.json",
+					"name" : "log_parcer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "log_processor::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-log_processor-Debug-804c6a8d8388c6414371.json",
+					"name" : "log_processor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "month_to_days::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-month_to_days-Debug-9b5835886eb31f2416fb.json",
+					"name" : "month_to_days",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "month_to_num::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-month_to_num-Debug-ca57e34b79d880e46dcc.json",
+					"name" : "month_to_num",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "my_structs::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-my_structs-Debug-563f337354f997ac3e82.json",
+					"name" : "my_structs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "perror2::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-perror2-Debug-cd9f0d48ee80ba4dd1d9.json",
+					"name" : "perror2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "stats_viewer::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-stats_viewer-Debug-f42b717e8e6d0d95c5f3.json",
+					"name" : "stats_viewer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "strcmp2::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-strcmp2-Debug-0e8e73da256e89703a1d.json",
+					"name" : "strcmp2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "string_concatenator::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-string_concatenator-Debug-df70e2c437bea244c409.json",
+					"name" : "string_concatenator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "string_to_int::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-string_to_int-Debug-f322e911ccd7762db329.json",
+					"name" : "string_to_int",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "strlen2::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-strlen2-Debug-09adb510c4e5a899d851.json",
+					"name" : "strlen2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "validator::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-validator-Debug-6f6f045ea6d972033648.json",
+					"name" : "validator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+		"source" : "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,98 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/bin -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o bin\\CMakeFiles\\labwork1.dir\\main.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\bin\\main.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\bin\\main.cpp",
+  "output": "bin\\CMakeFiles\\labwork1.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\strcmp2.dir\\strcmp2.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\strcmp2.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\strcmp2.cpp",
+  "output": "lib\\CMakeFiles\\strcmp2.dir\\strcmp2.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\validator.dir\\validator.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\validator.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\validator.cpp",
+  "output": "lib\\CMakeFiles\\validator.dir\\validator.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\perror2.dir\\perror2.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\perror2.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\perror2.cpp",
+  "output": "lib\\CMakeFiles\\perror2.dir\\perror2.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\my_structs.dir\\my_structs.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\my_structs.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\my_structs.cpp",
+  "output": "lib\\CMakeFiles\\my_structs.dir\\my_structs.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\string_to_int.dir\\string_to_int.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\string_to_int.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\string_to_int.cpp",
+  "output": "lib\\CMakeFiles\\string_to_int.dir\\string_to_int.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\arg_parcer.dir\\arg_parcer.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\arg_parcer.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\arg_parcer.cpp",
+  "output": "lib\\CMakeFiles\\arg_parcer.dir\\arg_parcer.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\error_processor.dir\\error_processor.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\error_processor.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\error_processor.cpp",
+  "output": "lib\\CMakeFiles\\error_processor.dir\\error_processor.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\stats_viewer.dir\\stats_viewer.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\stats_viewer.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\stats_viewer.cpp",
+  "output": "lib\\CMakeFiles\\stats_viewer.dir\\stats_viewer.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\string_concatenator.dir\\string_concatenator.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\string_concatenator.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\string_concatenator.cpp",
+  "output": "lib\\CMakeFiles\\string_concatenator.dir\\string_concatenator.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\strlen2.dir\\strlen2.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\strlen2.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\strlen2.cpp",
+  "output": "lib\\CMakeFiles\\strlen2.dir\\strlen2.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\month_to_num.dir\\month_to_num.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\month_to_num.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\month_to_num.cpp",
+  "output": "lib\\CMakeFiles\\month_to_num.dir\\month_to_num.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\log_processor.dir\\log_processor.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\log_processor.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\log_processor.cpp",
+  "output": "lib\\CMakeFiles\\log_processor.dir\\log_processor.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\month_to_days.dir\\month_to_days.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\month_to_days.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\month_to_days.cpp",
+  "output": "lib\\CMakeFiles\\month_to_days.dir\\month_to_days.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\local_time_parcer.dir\\local_time_parcer.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\local_time_parcer.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\local_time_parcer.cpp",
+  "output": "lib\\CMakeFiles\\local_time_parcer.dir\\local_time_parcer.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/build",
+  "command": "C:\\PROGRA~1\\CLANG_~1.8\\bin\\CLANG_~1.EXE -IC:/Users/User/Desktop/ITMO/OP/Laba_1/labwork1-vanish007/lib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o lib\\CMakeFiles\\log_parcer.dir\\log_parcer.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\log_parcer.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\OP\\Laba_1\\labwork1-vanish007\\lib\\log_parcer.cpp",
+  "output": "lib\\CMakeFiles\\log_parcer.dir\\log_parcer.cpp.obj"
+}
+]
